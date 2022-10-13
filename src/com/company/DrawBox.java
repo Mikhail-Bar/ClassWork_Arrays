@@ -26,7 +26,6 @@ class DrawPanel extends JPanel{
                 jLabel.setForeground(Color.RED);
                 else jLabel.setForeground(Color.BLACK);
 
-
             this.add(jLabel);
         }
 
